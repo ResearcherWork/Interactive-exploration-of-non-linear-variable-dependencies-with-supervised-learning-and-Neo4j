@@ -1,0 +1,18 @@
+CREATE(vtest3:VariableTest3 { Name: 'Config1', Correlation: toFloat(0.0293), RelativeAbsoluteError: toFloat( 99.9727), RootRelativeSquaredError: toFloat(99.9569)});
+CREATE(vtest3:VariableTest3 { Name: 'Config2', Correlation: toFloat(0.0353), RelativeAbsoluteError: toFloat(100.035 ), RootRelativeSquaredError: toFloat(99.9376)});
+CREATE(vtest3:VariableTest3 { Name: 'Sensor2', Correlation: toFloat(0.6681), RelativeAbsoluteError: toFloat( 73.8564), RootRelativeSquaredError: toFloat(74.4065)});
+CREATE(vtest3:VariableTest3 { Name: 'Sensor3', Correlation: toFloat(0.6712), RelativeAbsoluteError: toFloat( 73.9729), RootRelativeSquaredError: toFloat(74.1297)});
+CREATE(vtest3:VariableTest3 { Name: 'Sensor4', Correlation: toFloat(0.7907), RelativeAbsoluteError: toFloat( 60.6865), RootRelativeSquaredError: toFloat(61.216 )});
+CREATE(vtest3:VariableTest3 { Name: 'Sensor6', Correlation: toFloat(0.7731), RelativeAbsoluteError: toFloat( 47.2329), RootRelativeSquaredError: toFloat(63.4335)});
+CREATE(vtest3:VariableTest3 { Name: 'Sensor7', Correlation: toFloat(0.9698), RelativeAbsoluteError: toFloat( 27.5056), RootRelativeSquaredError: toFloat(24.3773)});
+CREATE(vtest3:VariableTest3 { Name: 'Sensor8', Correlation: toFloat(0.8362), RelativeAbsoluteError: toFloat( 49.5752), RootRelativeSquaredError: toFloat(54.8413)});
+CREATE(vtest3:VariableTest3 { Name: 'Sensor9', Correlation: toFloat(0.9218), RelativeAbsoluteError: toFloat( 41.9082), RootRelativeSquaredError: toFloat(38.7709)});
+CREATE(vtest3:VariableTest3 { Name: 'Sensor10', Correlation: toFloat(0.8882), RelativeAbsoluteError: toFloat( 21.737 ), RootRelativeSquaredError: toFloat(45.9384)});
+CREATE(vtest3:VariableTest3 { Name: 'Sensor11', Correlation: toFloat(0.8509), RelativeAbsoluteError: toFloat( 51.373 ), RootRelativeSquaredError: toFloat(52.5309)});
+CREATE(vtest3:VariableTest3 { Name: 'Sensor12', Correlation: toFloat(0.9767), RelativeAbsoluteError: toFloat( 24.1508), RootRelativeSquaredError: toFloat(21.4709)});
+CREATE(vtest3:VariableTest3 { Name: 'Sensor13', Correlation: toFloat(0.8357), RelativeAbsoluteError: toFloat( 49.4651), RootRelativeSquaredError: toFloat(54.9135)});
+CREATE(vtest3:VariableTest3 { Name: 'Sensor14', Correlation: toFloat(0.9274), RelativeAbsoluteError: toFloat( 40.066 ), RootRelativeSquaredError: toFloat(37.4169)});
+CREATE(vtest3:VariableTest3 { Name: 'Sensor15', Correlation: toFloat(0.8489), RelativeAbsoluteError: toFloat( 53.1431), RootRelativeSquaredError: toFloat(52.8628)});
+CREATE(vtest3:VariableTest3 { Name: 'Sensor17', Correlation: toFloat(0.7117), RelativeAbsoluteError: toFloat( 71.5525), RootRelativeSquaredError: toFloat(70.2507)});
+CREATE(vtest3:VariableTest3 { Name: 'Sensor20', Correlation: toFloat(0.8008), RelativeAbsoluteError: toFloat( 60.4153), RootRelativeSquaredError: toFloat(59.8943)});
+CREATE(vtest3:VariableTest3 { Name: 'Sensor21', Correlation: toFloat(0.8002), RelativeAbsoluteError: toFloat( 60.5979), RootRelativeSquaredError: toFloat(59.9754)});
