@@ -33,7 +33,7 @@ import glob
 from csvsorter import csvsort
 from more_itertools import unique_everseen
 
-# After seperating the engines and creating the agents, we have to merge the files to get one attribute-value file for each agent.
+# After seperating the engines and creating the agents, we have to merge the agents files to get one attribute-value file for each agent.
 
 File="C:/PythonProjects/TurboFanTest/Test4/GetColumns.csv"
 
